@@ -1,8 +1,7 @@
 # Palmoria_group
 Analysis on companys HR data and come up with recommendations in issues bordering on gender inequality in its 3 regions
 
-
-# Palmoria Group:
+# Who is Palmoria Group?
 The Palmoria Group, a manufacturing company based in the Nigeria 
 
 # Business Task
